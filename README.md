@@ -1,6 +1,3 @@
-Here's a professional and informative `README.md` for your **Lung Disease Prediction Dashboard** project:
-
----
 
 # 🫁 Lung Disease Prediction Dashboard
 
